@@ -33,10 +33,14 @@ echo '<br>';
 $resultat = '';
 $resultat .= 'The chosen fruit is:';
 
+$data1 = "Hello";
+$data2 = "planet";
+$data3 = "Mars";
+$data4 = "Earth";
+
+echo "$data1" . ", " . "$data4" . ". I am from " . "$data2" . " " . "$data3" . ".";
+
 ?>
-
-
-
 
 
 
